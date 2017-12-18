@@ -1,8 +1,8 @@
-# pronounce-downloader
-Download pronounce for english words
+# Pronunciations-downloader
+Download pronunciations for english words
 
 Usage:
 
-1) Enter words
+1) Enter your file name
 
-2) Listen or download pronounces
+2) Download pronunciations
